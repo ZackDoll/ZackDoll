@@ -18,7 +18,7 @@ On this profile, I upload whatever projects I happen to be working on, along wit
 ---
 ## More about me
  - I have 2 cats (Maisie and Leo)
- - Not big on caffeine (although with the amount of all-nighters I pull, I might need start)
+ - Huge basketball fan (Go Thunder!)
  - I like building things that make minor inconveniences disappear
 
 
