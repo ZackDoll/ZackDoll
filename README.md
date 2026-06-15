@@ -18,7 +18,7 @@ On this profile, I upload whatever projects I happen to be working on, along wit
 ---
 ## More about me
  - I have 2 cats (Maisie and Leo)
- - Huge basketball fan (Go Thunder!)
+ - Huge basketball fan (Go Lakers!)
  - I like building things that make minor inconveniences disappear
 
 
