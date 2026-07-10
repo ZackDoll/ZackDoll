@@ -11,7 +11,7 @@ On this profile, I upload whatever projects I happen to be working on, along wit
 ---
 ## Tools & Tech
  - React, Typescript, Node for frontend
- - MongoDB and Go for the backend
+ - MongoDB and Go for the backend (or php if im feeling that type of way)
  - Figma/Apple Notes for mockups
  - Pytorch, Tensorflow, sci-kit learn for ML/AI
 
